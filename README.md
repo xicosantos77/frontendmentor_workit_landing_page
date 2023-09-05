@@ -18,7 +18,7 @@ This is a solution to the [Workit landing page challenge on Frontend Mentor](htt
 
 ### Links
 
--   Solution URL: [](https://your-solution-url.com)
+-   Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/workit-landing-page-jPIDCjQDjA)
 -   Live Site URL: [Vercel](https://frontendmentor-workit-landing-page.vercel.app/)
 
 ## My process
